@@ -15,7 +15,7 @@ export default function Layout() {
           fontWeight: 'bold',
         },
         tabBarStyle: {
-          backgroundColor: '#ffffff',
+          backgroundColor: '#cb28ad',
           paddingTop: 5,
           height: 60,
         },
